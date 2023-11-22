@@ -4,7 +4,7 @@
 
 -Meu nome é Daniel.R
 
--Estou estudando e aprendendo com o alura
+-Estou estudando e aprendendo com o alura [Alura](https://www.alura.com.br)
 
 Meu gmail
 
