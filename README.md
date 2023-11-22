@@ -6,7 +6,7 @@
 
 -Estou estudando e aprendendo com o alura
 
-###Meu gmail
+Meu gmail
 
 daniel.rodrigues09@escola.pr.gov.br
 
